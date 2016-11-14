@@ -1,0 +1,8 @@
+app/bower_components
+.sass-cache
+node_modules
+.DS_Store
+config.codekit
+npm-debug.log
+scss-lint.log
+
